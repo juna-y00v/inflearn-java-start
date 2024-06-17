@@ -10,7 +10,7 @@ public class For2 {
 
         for (int i = 1; i <= endNum; i++) {
             sum = sum + i;
-            System.out.println("i = " + i+" sum = " + sum);
+            System.out.println("i = " + i  + " sum = " + sum);
         }
     }
 }
