@@ -8,7 +8,7 @@ public class Var7 {
         char d = 'A'; //문자 하나
         String e = "Hello Java";//문자열, 문자열을 다루기 위한 특별한 타입
 
-        
+
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
