@@ -9,3 +9,4 @@ public class Var4 {
         int c, d;
     }
 }
+
